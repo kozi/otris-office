@@ -28,7 +28,7 @@
                  "value":"media\/vfl-bochum.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"media\/547253__antwerpsounddesign__drip-drops-leaky-basement.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"main.json#start_frombasement"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"basement.json#start_portal_yellow"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
                  "value":"basement.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
                  "value":"basement.json#start_hole"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":"basement.json#start_portal_blue"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -250,7 +250,7 @@
                  "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/basement_info.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
                  "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/portal_warning.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
