@@ -1,0 +1,24 @@
+<html>
+
+<head>
+    <script>
+        window.onload = function () {
+            var path = window.location.pathname;
+            if (path.endsWith('index.html')) {
+                path = path.substr(path, path.length - 'index.html'.length);
+            }
+            var url1 = 'https://play.workadventu.re/_/global/' + window.location.host + path + 'main.json';
+            var url2 = 'https://play.wa.binary-kitchen.de/_/global/' + window.location.host + path + 'main.json';
+            document.getElementById('mapLink1').href = url1;
+            document.getElementById('mapLink1').innerText = url1;
+            document.getElementById('mapLink2').href = url2;
+            document.getElementById('mapLink2').innerText = url2;
+        };
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
