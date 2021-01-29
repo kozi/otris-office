@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"outside.json"
+                 "value":"./outside.json"
                 }],
          "type":"tilelayer",
          "visible":true,
